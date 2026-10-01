@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Tracker Pro - Android App & Architect Studio",
+  "description": "Complete production Kotlin Android application architecture, source code, and live interactive device simulator for GPS distance tracking, fuel expense logging, Room DB, cost per km calculations, and petrol pump geofence detection.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
